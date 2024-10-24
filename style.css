@@ -1,0 +1,10 @@
+header{
+    background: linear-gradient(to right,blueviolet,pink);
+    text-align: center;
+    font-size: 50px;
+}
+section{
+    font-size: 30px;
+    color:blueviolet;
+    text-align: center;
+}
