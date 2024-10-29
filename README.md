@@ -1,2 +1,2 @@
-# Waether forcast
+# Weather forcast
 This is part of my learning journey at shecodes
